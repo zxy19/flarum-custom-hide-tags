@@ -1,0 +1,9 @@
+xypp-custom-hide-tags:
+  # For more details on the format
+  # Checkout https://docs.flarum.org/extend/i18n/#appendix-a-standard-key-format
+  admin:
+    permissions_hide_tags: Allow Hiding Tags
+  forum:
+    hides: Hidden Tags From DiscussionList
+    hides-desc: These tags will be hidden from the list in main page. They'll remain visible when you're viewing a specific tag.
+    hides-select: Select tags to hide
