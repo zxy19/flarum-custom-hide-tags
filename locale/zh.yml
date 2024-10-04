@@ -6,4 +6,4 @@ xypp-custom-hide-tags:
   forum:
     hides: 从帖子列表隐藏标签
     hides-desc: 这些标签将从主页的帖子列表中隐藏,但是当你查看特定标签时,它们将可见
-    hides-select: 选择要隐藏的表情
+    hides-select: 选择要隐藏的标签

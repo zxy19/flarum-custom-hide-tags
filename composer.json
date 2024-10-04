@@ -25,11 +25,11 @@
     "extra": {
         "flarum-extension": {
             "title": "Custom Hide Tags",
-            "category": "",
+            "category": "features",
             "icon": {
-                "name": "",
-                "color": "",
-                "backgroundColor": ""
+                "name": "fas fa-user-tag",
+                "color": "#fff",
+                "backgroundColor": "#9c27b0"
             }
         },
         "flarum-cli": {
